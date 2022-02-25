@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5058a729-cbbc-4c51-ab91-ffd0b117ca43": {
+      "ProjectGuid": "5058a729-cbbc-4c51-ab91-ffd0b117ca43",
+      "DisplayName": "AgeClassification",
+      "ColorIndex": 0
+    },
+    "e081b8fa-3b19-4f33-a515-475ab8b75972": {
+      "ProjectGuid": "e081b8fa-3b19-4f33-a515-475ab8b75972",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeClassification", "AgeClassification.csproj", "{5058A729-CBBC-4C51-AB91-FFD0B117CA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{E081B8FA-3B19-4F33-A515-475AB8B75972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5058A729-CBBC-4C51-AB91-FFD0B117CA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5058A729-CBBC-4C51-AB91-FFD0B117CA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5058A729-CBBC-4C51-AB91-FFD0B117CA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5058A729-CBBC-4C51-AB91-FFD0B117CA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E081B8FA-3B19-4F33-A515-475AB8B75972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E081B8FA-3B19-4F33-A515-475AB8B75972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E081B8FA-3B19-4F33-A515-475AB8B75972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E081B8FA-3B19-4F33-A515-475AB8B75972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5CA571-F181-4FF5-BCA9-BCCA58AB7356}
+	EndGlobalSection
+EndGlobal
